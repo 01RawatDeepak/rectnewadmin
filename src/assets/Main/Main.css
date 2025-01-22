@@ -1,0 +1,12 @@
+@import url('../panel_assets/vendor/css/rtl/core.css');
+@import url('../panel_assets/vendor/css/rtl/theme-default.css'); 
+@import url('../panel_assetscss/demo.css');
+@import url('../panel_assets/vendor/libs/node-waves/node-waves.css');
+@import url('../panel_assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.css');
+@import url('../panel_assets/vendor/libs/typeahead-js/typeahead.css'); 
+@import url('../panel_assets/vendor/libs/apex-charts/apex-charts.css');
+@import url('../panel_assets/vendor/libs/swiper/swiper.css');
+@import url('../panel_assets/vendor/libs/datatables-bs5/datatables.bootstrap5.css');
+@import url('../panel_assets/vendor/libs/datatables-responsive-bs5/responsive.bootstrap5.css');
+@import url('../panel_assets/vendor/libs/datatables-checkboxes-jquery/datatables.checkboxes.css');
+@import url('../panel_assets/vendor/css/pages/cards-advance.css');
